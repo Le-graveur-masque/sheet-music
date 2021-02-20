@@ -39,7 +39,7 @@ Distance-entre-texte-et-partition = 0
 \yy
 \M "texte"
 { 
-cc4 cc
+do4
 }
 
 %%%%%%%%%%%%%%%%%%%%
