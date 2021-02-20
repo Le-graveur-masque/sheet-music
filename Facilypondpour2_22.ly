@@ -37,7 +37,7 @@ Distance-entre-texte-et-partition = 0
 %%%%%%%%%%% CONSTRUCTION DES PORTÉES
 % Portées simple. Syntaxe: \NS "nom de la portée" "nom instr." "nom court instr." taille "son midi" { la musique }. Pour les sons, voici quelques exemples d'instruments: acoustic grand %%  electric grand %%   celesta  %% church organ %% orchestral harp %% bright acoustic %% harpsichord %% clarinet %% french horn  %% oboe  %% tuba %% trombone %%  english horn %% trumpet %%  muted trumpet %%  baritone sax %%  tenor sax %%  soprano sax  %%   alto sax  %%   flute %%   piccolo %%    bassoon     %% contrabass %%  acoustic bass  %%   electric bass (finger) %%  cello  %%  violin  %%  glockenspiel  %%   vibraphone  %%   marimba  %%   xylophone  %%  melodic tom   %%  tubular bells  %%   woodblock  %%  agogo  %%  viola    %%  acoustic guitar (nylon)  %%  electric guitar (jazz)  %%   accordion  %%  harmonica   %% choir aahs  %%  voice oohs   %% synth voice    %%    pizzicato strings    %%     timpani     %
 \yy
-\M "texte"
+
 { 
 do4
 }
